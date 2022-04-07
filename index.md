@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![alt text for screen readers](https://github.com/abiliaorg/l-aura/raw/de953a5fc890a40253307450a72d8bd30204e875/Images/prima%20copertina.94.png "Text to show on mouseover")
 ```markdown
 Syntax highlighted code block
 
