@@ -1,14 +1,12 @@
 ## Welcome to L'Aura
 
-You can use the [editor on GitHub](https://github.com/abiliaorg/l-aura/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_L'Aura_ is a transportable product-system, capable of transforming any room into a multi-sensory environment with a high level of immersion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The project
 
-### Markdown
+The product features a structure made of a series of panels: thanks to laser cutting, the panels are shaped both on the external perimeter and on the inside. The succession of cut panels generates compartments with strong and suitable supports to house technologies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-![alt text for screen readers](https://github.com/abiliaorg/l-aura/raw/de953a5fc890a40253307450a72d8bd30204e875/Images/prima%20copertina.94.png "Text to show on mouseover")
+![alt text for screen readers](https://raw.githubusercontent.com/abiliaorg/l-aura/97e310e6ffc22241a1fbdd923b819dcc7b7cdb0e/Images/render%20l-aura.png)
 ```markdown
 Syntax highlighted code block
 
